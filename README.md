@@ -226,7 +226,6 @@ Contributions are welcome! Please open an issue first to discuss what you would 
 
 ## 🏆 Author
 **Shivam Kumar Singh**  
-- 📧 Email: shivamkumarsingh0007@gmail.com  
 - 🔗 **GitHub:** [GitHub](https://github.com/Sksingh0007)  
 
 ---
